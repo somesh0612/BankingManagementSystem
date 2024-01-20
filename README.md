@@ -19,7 +19,7 @@ Clone the repository to your local machine.
 
 bash
 Copy code
-git clone https://github.com/yourusername/BankingManagementSystem.git
+
 Import the project into your favorite IDE or compile and run using command-line tools.
 
 Set up the MySQL database:
